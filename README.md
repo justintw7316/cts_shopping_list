@@ -1,4 +1,4 @@
-# Shopping List App
+## Shopping List App
 Simple shopping list app built with Flutter to showcase slivers, BLoC state management, real-time totals, and audio feedback.
 
 # Setup
